@@ -1,1 +1,1 @@
-# hoolla
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=40db84602a659819a5df37d9345f2e0f56ac37ae&st.mq=3&st.mvid=3312499755589&st.ip=186.182.88.40&st.dla=off&st.exp=1643680023229&st.hls=on&_prevCmd=movieLayer&tkn=8331
